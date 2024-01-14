@@ -11,5 +11,5 @@ def calculate_consistency(file_path):
     
     print(most_consistent_row)
 
-# Replace 'your_file_path.xlsx' with the actual path to your Excel file
+# Replace this with your excel file
 calculate_consistency('/Users/trent/Documents/Tmacs Shooter Test.xlsx')
